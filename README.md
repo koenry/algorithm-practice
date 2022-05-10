@@ -6,7 +6,6 @@
 **Problem solving**, <br> 
 **Data Structure learning**,  <br> 
 **Rage-Inducing** <br> <br> 
-Repository for unfinished/finished code, project euler, rosalind, trying out new languages (C++ , Java) <br>
+Repository for  code from: project euler, rosalind, trying out new languages (C++ , Java), etc <br>
 
 
-I will be updating with code I finished during job interviews/project euler and other algorithms I managed to code!
